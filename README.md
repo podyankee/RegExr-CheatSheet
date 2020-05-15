@@ -1,9 +1,8 @@
 # RegExr-CheatSheet
 CheatSheet of RegExr js
 
-> . - любой символ
-
-> [aAbB] - любой из них.
+* . - любой символ
+* [aAbB] - любой из них.
 
 > [a-d] - диапозон
 > [0-9].[0-9] - дроби Devsd
